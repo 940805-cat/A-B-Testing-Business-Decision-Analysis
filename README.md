@@ -1,2 +1,26 @@
-# A-B-Testing-Business-Decision-Analysis
-Analyzed user behavior and business metrics to evaluate an A/B test and support data-driven decisions. Prioritized hypotheses using ICE/RICE frameworks and applied statistical testing to measure the impact of product changes.  Tools: Python, Pandas, Statistical Analysis, A/B Testing, ICE/RICE.
+# A/B Testing & Business Decision Analysis
+
+## Project Overview
+Brief description of the business problem.
+
+## Objective
+Analyze user behavior and evaluate if a product change improves business metrics.
+
+## Tools
+- Python
+- Pandas
+- SciPy
+- Matplotlib
+- A/B Testing
+
+## Analysis
+- Data cleaning
+- Exploratory Data Analysis
+- Hypothesis prioritization using ICE/RICE
+- Statistical testing
+
+## Results
+No statistically significant differences were found between groups. Recommendation: do not implement the tested change.
+
+## Link
+Notebook available in this repository.
